@@ -1,0 +1,15 @@
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\StopwatchSimple.exe
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\StopwatchSimple.deps.json
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\StopwatchSimple.runtimeconfig.json
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\StopwatchSimple.dll
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\ref\StopwatchSimple.dll
+C:\dev\Dev\StopwatchSimple\bin\Debug\net6.0\StopwatchSimple.pdb
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.csproj.AssemblyReference.cache
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.AssemblyInfoInputs.cache
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.AssemblyInfo.cs
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.csproj.CoreCompileInputs.cache
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.dll
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\ref\StopwatchSimple.dll
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.pdb
+C:\dev\Dev\StopwatchSimple\obj\Debug\net6.0\StopwatchSimple.genruntimeconfig.cache
